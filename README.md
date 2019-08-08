@@ -26,7 +26,7 @@ There are [4531985219092](https://oeis.org/A212693) possible states in the game 
 
 Before you can play the game against the AI you should train it at least for `1000000` episodes.
 
-> To play the game without trainig you can also download a [JSON](drive.google.com/file/d/1aWwLZWc6jVqUtHLk88wz48rknHi-ohjI/view?usp=sharing) with trained Data.
+> To play the game without trainig you can also download a [JSON](https://drive.google.com/file/d/1aWwLZWc6jVqUtHLk88wz48rknHi-ohjI/view?usp=sharing) with trained Data.
 > This will not work with Jupyter notebook
 
 #### Start the Game
